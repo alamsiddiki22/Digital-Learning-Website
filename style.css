@@ -4,3 +4,6 @@ body{
 .opacity{
     filter: brightness(40%);
 }
+.auto{
+    padding: 6px;
+}
