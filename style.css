@@ -1,6 +1,6 @@
-.opacitye {
-    opacity : 75%;
-}
 body{
     font-family: 'Playfair Display', serif;
+}
+.opacity{
+    filter: brightness(40%);
 }
